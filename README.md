@@ -6,4 +6,4 @@ All the solutions for Let us C by Yashwant Kanetkar
 
 SR No   | Program | Author  
 --- | --- | ---
-1 | Armstrong Number | [Saloni Sahay](https://github.com/SaloniSahay)
+1 | Armstrong Number | [Diwakar Kumar](https://github.com/diwakar1593)
