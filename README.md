@@ -14,3 +14,4 @@ SR No   | Program | Author
 6 | Palindrome | [Amit Kumar Mondal](https://github.com/Amit5620)
 7 | Merge Sort | [Shubham Kumar](https://github.com/Shubham1450)
 8 | Reverse Number | [Shubham Kumar](https://github.com/Shubham1450)
+9 | Table of Number | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
