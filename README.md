@@ -17,6 +17,7 @@ SR No   | Program | Author
 9 | GCD Of Two NumberS | [debghs](https://github.com/debghs)
 10 | Sum of two Number | [Swapnil Bhadani](https://github.com/swapnilb102)
 11 | Bubble Sort   | [Kumari Priyanshu](https://github.com/KumariPriyanshu15)
-12 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
-13 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
+12 | static   | [Lovely kumari](https://github.com/Lovely1506)
+13 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
+14 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
 
