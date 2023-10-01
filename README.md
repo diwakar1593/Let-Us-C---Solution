@@ -14,4 +14,5 @@ SR No   | Program | Author
 6 | Palindrome | [Amit Kumar Mondal](https://github.com/Amit5620)
 7 | Merge Sort | [Shubham Kumar](https://github.com/Shubham1450)
 8 | Reverse Number | [Shubham Kumar](https://github.com/Shubham1450)
-9 | Sum of two Number | [Swapnil Bhadani](https://github.com/swapnilb102)
+9 | GCD Of Two NumberS | [debghs](https://github.com/debghs)
+10 | Sum of two Number | [Swapnil Bhadani](https://github.com/swapnilb102)
