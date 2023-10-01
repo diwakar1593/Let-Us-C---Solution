@@ -18,3 +18,5 @@ SR No   | Program | Author
 10 | Sum of two Number | [Swapnil Bhadani](https://github.com/swapnilb102)
 11 | Bubble Sort   | [Kumari Priyanshu](https://github.com/KumariPriyanshu15)
 12 | Table of Number | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
+13 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
+
