@@ -25,4 +25,5 @@ SR No   | Program | Author
 17 | Leap year  | [Aaisha Perveen](https://github.com/aaisha26)
 18 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
 19 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
+20 | Binary Search | [Animesh Mondal](https://github.com/animeshMondal-crypto)
 
