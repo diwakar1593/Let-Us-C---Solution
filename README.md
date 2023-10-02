@@ -22,6 +22,7 @@ SR No   | Program | Author
 14 | static   | [Lovely kumari](https://github.com/Lovely1506)
 15 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
 16 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
-17 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
-
+17 | Leap year  | [Aaisha Perveen](https://github.com/aaisha26)
+18 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
+19 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
 
