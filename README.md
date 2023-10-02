@@ -17,4 +17,10 @@ SR No   | Program | Author
 9 | GCD Of Two NumberS | [debghs](https://github.com/debghs)
 10 | Sum of two Number | [Swapnil Bhadani](https://github.com/swapnilb102)
 11 | Bubble Sort   | [Kumari Priyanshu](https://github.com/KumariPriyanshu15)
+12 | Table of Number | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
+13 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
+14 | static   | [Lovely kumari](https://github.com/Lovely1506)
+15 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
+16 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
 21 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
+
