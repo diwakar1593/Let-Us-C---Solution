@@ -17,3 +17,4 @@ SR No   | Program | Author
 9 | GCD Of Two NumberS | [debghs](https://github.com/debghs)
 10 | Sum of two Number | [Swapnil Bhadani](https://github.com/swapnilb102)
 11 | Bubble Sort   | [Kumari Priyanshu](https://github.com/KumariPriyanshu15)
+21 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
