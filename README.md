@@ -23,5 +23,5 @@ SR No   | Program | Author
 15 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
 16 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
 17 | Leap year  | [Aaisha Perveen](https://github.com/aaisha26)
-
+18 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
 
