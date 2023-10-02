@@ -24,4 +24,5 @@ SR No   | Program | Author
 16 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
 17 | Leap year  | [Aaisha Perveen](https://github.com/aaisha26)
 18 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
+19 | Binary Search | [Animesh Mondal](https://github.com/animeshMondal-crypto)
 
