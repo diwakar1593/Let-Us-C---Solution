@@ -22,5 +22,6 @@ SR No   | Program | Author
 14 | static   | [Lovely kumari](https://github.com/Lovely1506)
 15 | Second largest element | [Manvi Rai](https://github.com/manvi-rai)
 16 | Fahrenheit to celsius  | [Mayank Rana](https://github.com/mayankrana2000)
+17 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
 
 
