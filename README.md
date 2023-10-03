@@ -26,4 +26,4 @@ SR No   | Program | Author
 18 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
 19 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
 20 | Binary Search | [Animesh Mondal](https://github.com/animeshMondal-crypto)
-
+21 |Greatest of 3 numbers | .[Moola Pravalesh](https://github.com/MoolaPravalesh19)
