@@ -27,3 +27,4 @@ SR No   | Program | Author
 19 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
 20 | Binary Search | [Animesh Mondal](https://github.com/animeshMondal-crypto)
 27 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
+28 |Word Palindrome | [Shiv Mangal Singh](https://github.com/mangal2003)
