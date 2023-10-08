@@ -26,6 +26,9 @@ SR No   | Program | Author
 18 | Pronic Number | [Sahil Kumar](https://github.com/SahilKumarIN)
 19 | Duck Number | [Ashish Sinha](https://github.com/ashishbuster)
 20 | Binary Search | [Animesh Mondal](https://github.com/animeshMondal-crypto)
-27 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
-28 |Static_variable | [Shubham Kumar](https://github.com/Shubham1450)
-29 |Number_to_string | [Shubham Kumar](https://github.com/Shubham1450)
+21 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
+22 |Static_variable | [Shubham Kumar](https://github.com/Shubham1450)
+23 |Number_to_string | [Shubham Kumar](https://github.com/Shubham1450)
+24 |Structure in C | [Shubham kumar](https://github.com/Shubham1450)
+25 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
+
