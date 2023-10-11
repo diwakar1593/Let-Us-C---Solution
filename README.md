@@ -29,3 +29,4 @@ SR No   | Program | Author
 27 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
 28 |Structure in C | [Shubham kumar](https://github.com/Shubham1450)
 29 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
+30 | Tower of Hanoi | [Sayan Barma](https://github.com/N00BSC00B)
