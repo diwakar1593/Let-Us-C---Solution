@@ -30,3 +30,4 @@ SR No   | Program | Author
 28 |Structure in C | [Shubham kumar](https://github.com/Shubham1450)
 29 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
 30 | Tower of Hanoi | [Sayan Barma](https://github.com/N00BSC00B)
+30 | Linear Search | [Karuna Ketan](https://github.com/karunaket)
