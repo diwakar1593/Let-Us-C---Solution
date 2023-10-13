@@ -31,4 +31,8 @@ SR No   | Program | Author
 23 |Number_to_string | [Shubham Kumar](https://github.com/Shubham1450)
 24 |Structure in C | [Shubham kumar](https://github.com/Shubham1450)
 25 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
+26 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
+27 |Structure in C | [Shubham kumar](https://github.com/Shubham1450)
+28 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
+29 | Tower of Hanoi | [Sayan Barma](https://github.com/N00BSC00B)
 
