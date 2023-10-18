@@ -39,3 +39,4 @@ SR No   | Program | Author
 31 |Structure in C | [Shubham kumar](https://github.com/Shubham1450)
 32 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
 33 | Tower of Hanoi | [Sayan Barma](https://github.com/N00BSC00B)
+34 | Distance bet 2 point | [Mrignaka Baramn](https://github.com/onemriganka)
