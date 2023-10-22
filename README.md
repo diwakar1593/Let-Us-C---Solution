@@ -42,3 +42,6 @@ SR No   | Program | Author
 34 | Distance bet 2 point | [Mrignaka Baramn](https://github.com/onemriganka)
 35 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
 36 |Word Palindrome | [Shiv Mangal Singh](https://github.com/mangal2003)
+37 | Tower of Hanoi | [Sayan Barma](https://github.com/N00BSC00B)
+38 | Linear Search | [Karuna Ketan](https://github.com/karunaket)
+
