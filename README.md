@@ -40,3 +40,5 @@ SR No   | Program | Author
 32 |Circular linked list | [Shubham kumar](https://github.com/Shubham1450)
 33 | Tower of Hanoi | [Sayan Barma](https://github.com/N00BSC00B)
 34 | Distance bet 2 point | [Mrignaka Baramn](https://github.com/onemriganka)
+35 |Greatest of 3 numbers | [Moola Pravalesh](https://github.com/MoolaPravalesh19)
+36 |Word Palindrome | [Shiv Mangal Singh](https://github.com/mangal2003)
